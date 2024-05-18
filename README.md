@@ -30,7 +30,14 @@ This dataset also includes information about:
 - Month of the year
 
 ### Class Label
-The "Revenue" attribute serves as the class label, indicating whether a transaction was completed during the session.
+The "Revenue" attribute serves as the class label, indicating whether a transaction was completed which mean a Sale, No Sale, customer did not purcase anything during the session.
 
 ### Conclusion
-This dataset provides a comprehensive view of user interactions on an e-commerce platform, offering valuable insights for analysis and prediction tasks.
+This dataset provides a comprehensive view of user interactions on an e-commerce platform, offering valuable insights for analysis and prediction tasks. 
+
+In this project, I have worked independently, utilizing various machine learning models to predict future results. The objective is to explore different algorithms, optimize their performance, and present the outcomes of each method. 
+
+My aim is to leverage the publicly available online shopper purchasing intention dataset from the UC Irvine Machine Learning Repository website. By experimenting with different approaches, I intend to gain insights into user behavior on e-commerce platforms and develop predictive models that can effectively anticipate purchasing intentions.
+
+Through this endeavor, I aim to contribute to the field of e-commerce analysis by uncovering valuable patterns and trends in online shopping behavior, ultimately enhancing decision-making processes for businesses in the online retail sector.
+
