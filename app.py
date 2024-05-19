@@ -36,7 +36,7 @@ markdown_string = f"<img src='{logo_url}' alt='University Logo' width='250' styl
 st.markdown(markdown_string, unsafe_allow_html=True)
 #st.markdown("<h1 style='font-size: 24px;'>YTU Web Data Minig School Project</h1>", unsafe_allow_html=True)
 project_url = "https://raw.githubusercontent.com/smt07/webdatamining/main/data-mining-project.webp"
-st.image(project_url, caption="Samet Gök       Student ID: 23550030", use_column_width=True)
+st.image(project_url, caption="S..       Student ID: 23.....", use_column_width=True)
 st.markdown("<h1 style='font-size: 24px;'>Online Shoppers Purchasing Intention Data Set</h1>", unsafe_allow_html=True)
 dataset_name = "Online Shoppers Intention"
 
